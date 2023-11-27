@@ -15,8 +15,7 @@ public class Main {
         obj4.damePeso2(sc.nextDouble());
         obj4.dimeDatos();
         obj4.dimeDiferencia();
-//commit segundo
-//commit tercero
+
 
     }
 
